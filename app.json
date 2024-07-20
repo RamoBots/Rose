@@ -1,0 +1,30 @@
+{
+    "name": "Source Theo ",
+    "description": "سورس ريكو لصنع بوتات حمايه بجميع المميزات❤️",
+    "repository": "https://github.com/VamBIR/v",
+    "logo": "https://graph.org/file/7c3ad0702c247b2f44a93.jpg",
+    "keywords": [
+    "python3",
+    "telegram",
+    "bot",
+    "mongodb",
+    "Group-Manager-bot",
+    "pyrogram"
+    ],
+    "website": "https://t.me/r_ikoo",
+    "success_url": "https://t.me/r_ikoo",
+    "stack": "container",
+    "env": {
+        "Token": {
+            "description": "ضع توكن بوتك  @BotFather",
+            "required": true
+        },      
+        "idSudo": {
+            "description": "حط ايدي مطور البوت",
+            "required": true
+        }
+    }
+}
+
+
+
